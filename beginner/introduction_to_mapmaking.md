@@ -19,5 +19,5 @@ Under Construction...
 
 ___
 
-### [Back to Homepage](https://thegamerasd.github.io/AWBW-Mapmaking-Guide)<br>
-### [Next Guide: Introduction to FTA](beginner/introduction_to_fta.md)
+[Back to Homepage](https://thegamerasd.github.io/AWBW-Mapmaking-Guide)<br>
+[Next Guide: Introduction to FTA](beginner/introduction_to_fta.md)

@@ -2,13 +2,13 @@
 
 ## Beginner Guides:
 
-- [Introduction to Mapmaking](introduction_to_mapmaking.md)
-- [Introduction to FTA](introduction_to_fta.md)
+- [Introduction to Mapmaking](beginner/introduction_to_mapmaking.md)
+- [Introduction to FTA](beginner/introduction_to_fta.md)
 
 ## Intermediate Guides:
 
-- [Comm. Tower Placement](introduction_to_mapmaking.md)
+- [Comm. Tower Placement](intermediate/introduction_to_mapmaking.md)
 
 ## Advanced Guides:
 
-- [Front Design](introduction_to_mapmaking.md)
+- [Front Design](advanced/introduction_to_mapmaking.md)

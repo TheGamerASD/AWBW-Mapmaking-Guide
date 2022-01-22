@@ -1,6 +1,7 @@
 # Introduction to Mapmaking
 #### Written by: *TheGamerASD*
 [Back to Homepage](https://thegamerasd.github.io/AWBW-Mapmaking-Guide)
+
 ___
 
 ### Map Size

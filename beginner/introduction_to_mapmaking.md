@@ -1,5 +1,5 @@
 # Introduction to Mapmaking
-#### Written by: *TheGamerASD*
+#### Written by: <span style="color:lightblue">TheGamerASD</span>
 [Back to Homepage](https://thegamerasd.github.io/AWBW-Mapmaking-Guide)
 
 ___

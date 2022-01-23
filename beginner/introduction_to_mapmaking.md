@@ -1,5 +1,5 @@
 # Introduction to Mapmaking
-#### Written by: <span style="color:lightblue">TheGamerASD</span>
+#### Written by: <span style="color:deepskyblue">TheGamerASD</span>
 [Back to Homepage](https://thegamerasd.github.io/AWBW-Mapmaking-Guide)
 
 ___
@@ -11,11 +11,10 @@ Maps which are around 15x15 in size are considered small. It is recommended to n
 ### Map Bases
 Most competitive maps have 2 or 3 bases per side. A map with 2 bases per side is considered base light. Having a single base per side causes there to be not enough infantry, while having too many bases causes infantry or mech spam. Some mixed base maps also have 4 bases per side.
 
-Additionaly, you should avoid having contested neutral bases. Having contested neutral bases means that whoever wins the neutral bases gets a huge advantage over their opponent, so players will focus their entire army on the neutral bases.
+Additionally, you should avoid having contested neutral bases. Having contested neutral bases means that whoever wins the neutral bases gets a huge advantage over their opponent, so players will focus their entire army on the neutral bases. 
 
 ### Map Terrain
 Under Construction...
-
 
 ___
 

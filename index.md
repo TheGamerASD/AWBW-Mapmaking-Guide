@@ -1,5 +1,11 @@
 # AWBW Mapmaking Guide
 
+___
+
+Welcome to the Advance Wars By Web Mapmaking Guide. Here you can find guides for making competitive maps on AWBW. If you are new to competitive mapmaking, you should start by reading the beginner guides in the order they are listed. 
+
+___
+
 ## Beginner Guides:
 
 - [Introduction to Mapmaking](beginner/introduction_to_mapmaking.md)

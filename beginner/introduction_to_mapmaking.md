@@ -13,7 +13,7 @@ Once you enter the map editor, you will have the option of choosing a symmetry.
 
 <img src="https://raw.githubusercontent.com/TheGamerASD/AWBW-Mapmaking-Guide/main/images/symm.png" />
 
-It is recommended to use Rotate 2Q, because it allows for more dynamic maps that are still symmetrical. You could also try making an asymmetrical map, though it is extremely difficult to make a competitively viable map that isn't symmetrical.
+It is recommended to use Rotate 2Q, because it allows for more dynamic maps that are still symmetrical. It is not recommended to make an asymmetrical map, because it is extremely difficult to make a competitively viable and balanced map that isn't symmetrical.
 
 ### Map Bases
 Most competitive maps have 2 or 3 bases per side. A map with 2 bases per side is considered base light. Having too many bases causes infantry or mech spam which can make the map stall out. Some maps which are mixed base also have 4 bases per side.

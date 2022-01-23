@@ -10,7 +10,8 @@ Maps which are around 15x15 in size are considered small. It is recommended to n
 
 ### Map Symmetry
 Once you enter the map editor, you will have the option of choosing a symmetry.
-![](images/symm.png)
+
+<img src="https://raw.githubusercontent.com/TheGamerASD/AWBW-Mapmaking-Guide/main/images/symm.png" />
 
 It is recommended to use Rotate 2Q, because it allows for more dynamic maps that are still symmetrical. You could also try making an asymmetrical map, though it is extremely difficult to make a competitively viable map that isn't symmetrical.
 

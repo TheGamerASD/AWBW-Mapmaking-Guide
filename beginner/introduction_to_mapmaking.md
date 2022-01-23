@@ -29,4 +29,4 @@ In Advance Wars By Web, most maps place the HQ in front of the bases. If one pla
 ___
 
 [Back to Homepage](https://thegamerasd.github.io/AWBW-Mapmaking-Guide)<br>
-[Next Guide: Introduction to FTA](beginner/introduction_to_fta.md)
+[Next Guide: Introduction to FTA](introduction_to_fta.md)

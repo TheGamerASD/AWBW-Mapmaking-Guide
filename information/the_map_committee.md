@@ -1,6 +1,6 @@
 # The Map Committee
 #### Written by: <span style="color:deepskyblue">TheGamerASD</span>
-[Back to Homepage](..\index.md)
+[Back to Homepage](..\index.html)
 
 ___
 
@@ -29,4 +29,4 @@ Junior MC: [Ilese][5], [Lost and Found][6], [MorganLeah][7], [OutlineY][8], [Shi
 
 ___
 
-[Back to Homepage](..\index.md)<br>
+[Back to Homepage](..\index.html)<br>

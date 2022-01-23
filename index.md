@@ -10,6 +10,7 @@ ___
 
 - [Introduction to Mapmaking](beginner/introduction_to_mapmaking.md)
 - [Introduction to FTA](beginner/introduction_to_fta.md)
+- [Terrain Placement](beginner/terrain_placement.md)
 
 ## Intermediate Guides:
 

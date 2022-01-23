@@ -10,4 +10,4 @@ Sample Text
 ___
 
 [Back to Homepage](https://thegamerasd.github.io/AWBW-Mapmaking-Guide)<br>
-[Next Guide](terrain_placement.md)<br>
+[Next Guide: Terrain Placement](terrain_placement.md)<br>

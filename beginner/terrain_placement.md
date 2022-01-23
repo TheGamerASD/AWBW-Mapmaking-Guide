@@ -4,7 +4,7 @@
 
 ___
 
-Maps are made of terrain, like plains, forests, cities, and more. So, it is important to know how to place terrain in your map.
+Maps are made of terrain, like plains, forests, cities, and more. So, it is important to know how and where to place terrain in your map.
 
 ### Plains
 Plains are the most common terrain type in most maps. They have 1 defense star and have 1 movement cost for all units except for units with wheels, which have 2 movement cost on them.

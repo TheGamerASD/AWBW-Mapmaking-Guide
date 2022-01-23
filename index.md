@@ -14,8 +14,12 @@ ___
 
 ## Intermediate Guides:
 
-- [Comm. Tower Placement](intermediate/introduction_to_mapmaking.md)
+- [*Comm. Tower Placement*](intermediate/comm_tower_placement.md)
 
 ## Advanced Guides:
 
-- [Front Design](advanced/introduction_to_mapmaking.md)
+- [*Front Design*](advanced/front_design.md)
+
+## Information:
+
+- [*The Map Committee*](information/the_map_committee.md)

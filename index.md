@@ -2,7 +2,7 @@
 
 ___
 
-Welcome to the Advance Wars By Web mapmaking guide. Here you can find guides for making competitive maps on AWBW. If you are new to competitive mapmaking, you should start by reading the beginner guides in the order they are listed. 
+Welcome to the Advance Wars By Web mapmaking guide. Here you can find guides for making competitive maps on AWBW. If you are new to competitive mapmaking, you should start by reading the beginner guides in the order they are listed. More guides will be added to this site in the future.
 
 ___
 
@@ -22,4 +22,4 @@ ___
 
 ## Information:
 
-- [*The Map Committee*](information/the_map_committee.md)
+- [The Map Committee](information/the_map_committee.md)

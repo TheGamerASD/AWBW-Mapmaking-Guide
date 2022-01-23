@@ -1,6 +1,6 @@
 # Introduction to FTA
 #### Written by: <span style="color:deepskyblue">TheGamerASD</span>
-[Back to Homepage](https://thegamerasd.github.io/AWBW-Mapmaking-Guide)
+[Back to Homepage](..\index.md)
 
 ___
 
@@ -18,6 +18,6 @@ Both bases should be preowned. The second player should have a predeployed infan
 
 ___
 
-[Back to Homepage](https://thegamerasd.github.io/AWBW-Mapmaking-Guide)<br>
+[Back to Homepage](..\index.md)<br>
 [Previous Guide: Introduction to Mapmaking](introduction_to_mapmaking.md)<br>
 [Next Guide: Terrain Placement](terrain_placement.md)<br>

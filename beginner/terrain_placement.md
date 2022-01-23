@@ -1,6 +1,6 @@
 # Terrain Placement
 #### Written by: <span style="color:deepskyblue">TheGamerASD</span>
-[Back to Homepage](https://thegamerasd.github.io/AWBW-Mapmaking-Guide)
+[Back to Homepage](..\index.md)
 
 ___
 
@@ -29,5 +29,5 @@ Pipes and pipeseams are impassable by all units. Pipes can be useful for slowing
 
 ___
 
-[Back to Homepage](https://thegamerasd.github.io/AWBW-Mapmaking-Guide)<br>
+[Back to Homepage](..\index.md)<br>
 [Previous Guide: Introduction to FTA](introduction_to_fta.md)<br>

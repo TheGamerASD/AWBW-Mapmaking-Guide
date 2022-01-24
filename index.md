@@ -18,7 +18,7 @@ ___
 
 ## Advanced Guides:
 
-- [*Front Design*](advanced/front_design.md)
+- [*Coming Soon...*]()
 
 ## Information:
 

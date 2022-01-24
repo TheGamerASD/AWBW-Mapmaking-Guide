@@ -23,3 +23,4 @@ ___
 ## Information:
 
 - [The Map Committee](information/the_map_committee.md)
+- [Map Categorization](information/map_categorization.md)

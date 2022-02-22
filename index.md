@@ -14,7 +14,7 @@ ___
 
 ## Intermediate Guides:
 
-- [*Comm. Tower Placement*](intermediate/comm_tower_placement.md)
+- [Comm. Tower Placement](intermediate/comm_tower_placement.md)
 
 ## Advanced Guides:
 

@@ -13,8 +13,12 @@ There are a variety of different FTA counters for different situations. Here I w
 #### 2 Bases Per Side (Standard/Fog of War)
 Both bases should be preowned. The second player should have a predeployed infantry on the strongest base. The strongest base is the one with the most properties near it.
 
+![](..\images\2basefta.png)
+
 #### 3 Bases Per Side (Standard/Fog of War)
 2 bases should be preowned. One of the bases should be neutral. The second player should have a predeployed infantry on the preowned base closest to the neutral base. It is important to make sure that the capture of a neutral base cannot be interrupted by the other player.
+
+![](..\images\3basefta.png)
 
 ___
 

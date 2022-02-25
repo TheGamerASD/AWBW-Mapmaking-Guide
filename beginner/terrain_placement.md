@@ -19,7 +19,8 @@ Cities are an important terrain type because they not only have 3 defense stars,
 Roads and shoals have 1 movement cost for all units, but they have no defense stars. They should be placed for helping wheeled units get around or for making it easier to attack into a tile. The difference between roads and shoals is that naval transport units can cross shoals but not roads.
 
 ### Mountains and Rivers
-Mountains and rivers are impassable by vehicles, so only infantry, mech, and air units can get over them. Only infantry units are slowed down by these tiles. Mountains and rivers are useful for shaping where battles will take place since vehicles will be unable to cross them. You should make sure not to place too many mountains or rivers at the frontline, or it will be hard for players to attack there.<br>
+Mountains and rivers are impassable by vehicles, so only infantry, mech, and air units can get over them. Only infantry units are slowed down by these tiles. Mountains and rivers are useful for shaping where battles will take place since vehicles will be unable to cross them. You should make sure not to place too many mountains or rivers at the frontline, or it will be hard for players to attack there.
+
 The difference between rivers and mountains is that rivers have no defense stars while mountains have 4 defense stars. In addition, infantry or mech units on mountains will gain additional vision in fog of war.
 
 ### Oceans

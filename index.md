@@ -8,13 +8,13 @@ ___
 
 ## Beginner Guides:
 
-- [Introduction to Mapmaking](beginner/introduction_to_mapmaking.md)
+- [Introduction to Mapmaking](beginner/introduction_to_mapmaking.md#content)
 - [Introduction to FTA](beginner/introduction_to_fta.md)
 - [Terrain Placement](beginner/terrain_placement.md)
 
 ## Intermediate Guides:
 
-- [*Core Concepts*]()
+- [Core Concepts](intermediate/core_concepts.md)
 - [Map Income](intermediate/map_income.md)
 - [*HQ Placement*]()
 - [Comm. Tower Placement](intermediate/comm_tower_placement.md)

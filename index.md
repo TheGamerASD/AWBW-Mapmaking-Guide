@@ -14,7 +14,11 @@ ___
 
 ## Intermediate Guides:
 
+- [*Core Concepts*](intermediate/core_concepts.md)
+- [Map Income](intermediate/map_income.md)
+- [*HQ Placement*](intermediate/hq_placement.md)
 - [Comm. Tower Placement](intermediate/comm_tower_placement.md)
+- [*City Placement*](intermediate/city_placement.md)
 
 ## Advanced Guides:
 

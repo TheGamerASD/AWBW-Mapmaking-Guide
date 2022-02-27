@@ -9,8 +9,7 @@ Most maps have comm. towers because they make the map less likely to stall by gi
 
 
 Some maps have 2 comm. towers per side instead of only one, this should be done only in limited circumstances, usually when the map has a lot of heavy terrain.
-You should make sure when placing comm. towers that they are not overly contested, because that will make most of the fighting revolve around the comm. towers, and other parts of the map might get ignored.
-This means that central comm. towers are usually a bad idea.
+You should make sure when placing comm. towers that they are not overly contested, because that will make it easy for one player to get both towers. This means that contested central comm. towers are usually a bad idea.
 
 
 Some maps have comm. towers placed in a way that they are contestable in the midgame if you are beating your opponent in that area.

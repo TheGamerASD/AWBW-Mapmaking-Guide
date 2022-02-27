@@ -18,7 +18,7 @@ These maps are recently created maps which look good enough for competitive play
 ### A-Rank
 These maps are good enough for competitive play. They might have minor balance issues or a tendency to stall out in high level play. Maps in this category are not actively monitored, so many older A-Rank maps would be casual play or even uncategorized if they were published today.
 
-A-Rank is a very broad category even today, with the worst maps bordering on the edge of casual play, and the best maps being good enough to be used in the Global League. New categorized maps usually take a few months to be categorized into A-Rank. Games on the map are not analyzed when a map is categorized into A-Rank.
+A-Rank is a very broad category even today, with the worst maps bordering on the edge of casual play, and the best maps being good enough to be used in the Global League. New categorized maps usually take a few months to be categorized into A-Rank, though there is no minimum time before a map can be categorized into A-Rank. Games on the map are not analyzed when a map is categorized into A-Rank.
 
 ### S-Rank
 These maps are the highest quality competitive maps. They have almost no balance issues and are hard to stall in, even in high level play. S-Rank maps encourage dynamic and interesting matches with well-designed fronts and capture phases. Some S-Rank maps got A-Rank first, before they were categorized into S-Rank. Maps in this category are actively monitored, so some older S-Rank maps were removed from S-Rank as map quality standards increased.

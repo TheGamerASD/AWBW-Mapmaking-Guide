@@ -1,6 +1,6 @@
 # Comm. Tower Placement
 #### Written by: <span style="color:deepskyblue">TheGamerASD</span>
-[Back to Homepage](..\index.html)
+[Back to Homepage](..\index.html#content)
 
 ___
 
@@ -17,4 +17,4 @@ You could also place the comm. towers in a location where they are uncontested, 
 
 ___
 
-[Back to Homepage](..\index.html)<br>
+[Back to Homepage](..\index.html#content)<br>

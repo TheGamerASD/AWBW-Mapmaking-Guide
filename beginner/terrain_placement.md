@@ -1,6 +1,6 @@
 # Terrain Placement
 #### Written by: <span style="color:deepskyblue">TheGamerASD</span>
-[Back to Homepage](..\index.html)
+[Back to Homepage](..\index.html#content)
 
 ___
 
@@ -31,5 +31,5 @@ Pipes and pipeseams are impassable by all units. Pipes can be useful for slowing
 
 ___
 
-[Back to Homepage](..\index.html)<br>
-[Previous Guide: Introduction to FTA](introduction_to_fta.md)<br>
+[Back to Homepage](..\index.html#content)<br>
+[Previous Guide: Introduction to FTA](introduction_to_fta.md#content)<br>

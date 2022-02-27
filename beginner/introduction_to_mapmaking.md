@@ -1,6 +1,6 @@
 # Introduction to Mapmaking
 #### Written by: <span style="color:deepskyblue">TheGamerASD</span>
-[Back to Homepage](..\index.html)
+[Back to Homepage](..\index.html#content)
 
 ___
 
@@ -28,5 +28,5 @@ In Advance Wars By Web, most maps place the HQ in front of the bases. If one pla
 
 ___
 
-[Back to Homepage](..\index.html)<br>
-[Next Guide: Introduction to FTA](introduction_to_fta.md)
+[Back to Homepage](..\index.html#content)<br>
+[Next Guide: Introduction to FTA](introduction_to_fta.md#content)

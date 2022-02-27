@@ -1,6 +1,6 @@
 # Map Categorization
 #### Written by: <span style="color:deepskyblue">TheGamerASD</span>
-[Back to Homepage](..\index.html)
+[Back to Homepage](..\index.html#content)
 
 ___
 
@@ -25,5 +25,5 @@ These maps are the highest quality competitive maps. They have almost no balance
 
 ___
 
-[Back to Homepage](..\index.html)<br>
-[Previous Article: The Map Committee](the_map_committee.md)
+[Back to Homepage](..\index.html#content)<br>
+[Previous Article: The Map Committee](the_map_committee.md#content)

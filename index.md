@@ -9,15 +9,15 @@ ___
 ## Beginner Guides:
 
 - [Introduction to Mapmaking](beginner/introduction_to_mapmaking.md#content)
-- [Introduction to FTA](beginner/introduction_to_fta.md)
-- [Terrain Placement](beginner/terrain_placement.md)
+- [Introduction to FTA](beginner/introduction_to_fta.md#content)
+- [Terrain Placement](beginner/terrain_placement.md#content)
 
 ## Intermediate Guides:
 
-- [Core Concepts](intermediate/core_concepts.md)
-- [Map Income](intermediate/map_income.md)
+- [Core Concepts](intermediate/core_concepts.md#content)
+- [Map Income](intermediate/map_income.md#content)
 - [*HQ Placement*]()
-- [Comm. Tower Placement](intermediate/comm_tower_placement.md)
+- [Comm. Tower Placement](intermediate/comm_tower_placement.md#content)
 - [*City Placement*]()
 
 ## Advanced Guides:
@@ -26,5 +26,5 @@ ___
 
 ## Information:
 
-- [The Map Committee](information/the_map_committee.md)
-- [Map Categorization](information/map_categorization.md)
+- [The Map Committee](information/the_map_committee.md#content)
+- [Map Categorization](information/map_categorization.md#content)

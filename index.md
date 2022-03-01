@@ -29,3 +29,8 @@ ___
 
 - [The Map Committee](information/the_map_committee.md#content)
 - [Map Categorization](information/map_categorization.md#content)
+- [*Mapmaking Glossary*](information/mapmaking_glossary.md#content)
+
+## Map Makeovers:
+
+- [Map Makeover 1](makeovers/map_makeover_1.md#content)

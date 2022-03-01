@@ -21,7 +21,6 @@ Most competitive maps have 2 or 3 bases per side. A map with 2 bases per side is
 Additionally, you should avoid having contested neutral bases. Having contested neutral bases means that whoever wins the neutral bases gets a huge advantage over their opponent, so players will focus their entire army on the neutral bases. 
 
 ### HQ Placement
-
 Most maps in the Advance Wars console games placed the HQ right next to or behind the bases. The problem with this is that it becomes very difficult for your opponent to capture your HQ when it's protected by your bases, which causes games to drag on even when one player has clearly won.
 
 In Advance Wars By Web, most maps place the HQ in front of the bases. If one player starts losing enough to where they aren't able to protect their HQ, their opponent can capture their HQ to end the game. It is recommended to place the HQ so that it takes 2 turns for a tank to be able to attack a unit on the HQ from the nearest allied base.

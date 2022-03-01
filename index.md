@@ -11,6 +11,7 @@ ___
 - [Introduction to Mapmaking](beginner/introduction_to_mapmaking.md#content)
 - [Introduction to FTA](beginner/introduction_to_fta.md#content)
 - [Terrain Placement](beginner/terrain_placement.md#content)
+- [Things to Avoid](beginner/things_to_avoid.md#content)
 
 ## Intermediate Guides:
 

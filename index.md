@@ -17,11 +17,9 @@ ___
 
 - [Core Concepts](intermediate/core_concepts.md#content)
 - [Map Income](intermediate/map_income.md#content)
-
-[//]: # - ([*HQ Placement*](intermediate/hq_placement.md#content))
+{# - [*HQ Placement*](intermediate/hq_placement.md#content) #}
 - [Comm. Tower Placement](intermediate/comm_tower_placement.md#content)
-
-[//]: # - ([*City Placement*](intermediate/city_placement.md#content))
+{# - [*City Placement*](intermediate/city_placement.md#content) #}
 
 ## Advanced Guides:
 

@@ -29,11 +29,10 @@ ___
 - [Map Categorization](information/map_categorization.md#content)
 - [Mapmaking Glossary](information/mapmaking_glossary.md#content)
 
+{% comment %}
 ## Map Makeovers:
 
 - [*Map Makeover 1*](makeovers/map_makeover_1.md#content)
-
-{% comment %}
 - [*HQ Placement*](intermediate/hq_placement.md#content)
 - [*City Placement*](intermediate/city_placement.md#content)
 {% endcomment %}

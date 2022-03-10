@@ -18,7 +18,19 @@ It is recommended to use Rotate 2Q, because it allows for more dynamic maps that
 ### Map Bases
 Most competitive maps have 2 or 3 bases per side. A map with 2 bases per side is considered base light. Having too many bases causes infantry or mech spam which can make the map stall out. Some maps which are mixed base also have 4 bases per side.
 
-Additionally, you should avoid having contested neutral bases. Having contested neutral bases means that whoever wins the neutral bases gets a huge advantage over their opponent, so players will focus their entire army on the neutral bases. 
+This map has too many bases and is likely to stalemate.<br>
+![](..\images\bases1.png)
+
+This map has the right amount of bases for competitive play.<br>
+![](..\images\bases2.png)
+
+Additionally, you should avoid having contested neutral bases. Having contested neutral bases means that whoever wins the neutral bases gets a huge advantage over their opponent, so players will focus their entire army on the neutral bases.
+
+This map has a contested neutral base.<br>
+![](..\images\neutral1.png)
+
+The neutral base here isn't contested.<br>
+![](..\images\neutral2.png)
 
 ### HQ Placement
 Most maps in the Advance Wars console games placed the HQ right next to or behind the bases. The problem with this is that it becomes very difficult for your opponent to capture your HQ when it's protected by your bases, which causes games to drag on even when one player has clearly won.

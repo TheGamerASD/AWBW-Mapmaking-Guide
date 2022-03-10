@@ -18,3 +18,4 @@ You could also place the comm. towers in a location where they are uncontested, 
 ___
 
 [Back to Homepage](..\index.html#content)<br>
+[Previous Guide: Map Income](map_income.md#content)

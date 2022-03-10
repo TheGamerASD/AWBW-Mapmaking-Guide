@@ -26,4 +26,5 @@ These maps are the highest quality competitive maps. They have almost no balance
 ___
 
 [Back to Homepage](..\index.html#content)<br>
-[Previous Article: The Map Committee](the_map_committee.md#content)
+[Previous Article: The Map Committee](the_map_committee.md#content)<br>
+[Next Article: Mapmaking Glossary](mapmaking_glossary.md#content)

@@ -16,4 +16,5 @@ If your map has an airport in it, you should add in 3k more income, since battle
 ___
 
 [Back to Homepage](..\index.html#content)<br>
-[Next Guide: HQ Placement](hq_placement.md#content)
+[Previous Guide: Map Income](map_income.md#content)<br>
+[Next Guide: Comm. Tower Placement](comm_tower_placement.md#content)

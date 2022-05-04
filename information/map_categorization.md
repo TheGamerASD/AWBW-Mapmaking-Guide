@@ -4,7 +4,7 @@
 
 ___
 
-Competitive maps on AWBW are categorized into different categories by the Map Committee. Here is a list of the categories and how they are given to maps.
+Competitive maps on AWBW are categorized into different quality categories by the Map Committee. Here is a list of the categories and how they are given to maps.
 
 ### Uncategorized (None)
 These maps are not categorized due to serious design or balance issues which make the map unsuitable for casual or competitive play.
@@ -21,7 +21,7 @@ These maps are good enough for competitive play. They might have minor balance i
 A-Rank is a very broad category even today, with the worst maps bordering on the edge of casual play, and the best maps being good enough to be used in the Global League. New categorized maps usually take a few months to be categorized into A-Rank, though there is no minimum time before a map can be categorized into A-Rank. Games on the map are not analyzed when a map is categorized into A-Rank.
 
 ### S-Rank
-These maps are the highest quality competitive maps. They have almost no balance issues and are hard to stall in, even in high level play. S-Rank maps encourage dynamic and interesting matches with well-designed fronts and capture phases. Some S-Rank maps got A-Rank first, before they were categorized into S-Rank. Maps in this category are actively monitored, so some older S-Rank maps were removed from S-Rank as map quality standards increased.
+These maps are the highest quality competitive maps. They have almost no balance issues and are hard to stall in, even in high level play. S-Rank maps encourage dynamic and interesting matches with well-designed fronts and capture phases. Some S-Rank maps were given A-Rank before they were categorized into S-Rank. Maps in this category are actively monitored, so some older S-Rank maps were removed from S-Rank as map quality standards increased.
 
 ___
 

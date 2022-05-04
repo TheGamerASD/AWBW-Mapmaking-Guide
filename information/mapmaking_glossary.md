@@ -10,6 +10,9 @@ ___
 - **TA** - Turn Advantage
 - **MC** - Map Committee
 - **HF** - High Funds
+- **LHF** - Limited High Funds
+- **UR** - Under Review
+- **GL** - Global League
 
 ___
 

@@ -38,4 +38,3 @@ ___
 
 [Back to Homepage](..\index.html#content)<br>
 [Previous Guide: Introduction to FTA](introduction_to_fta.md#content)<br>
-[Next Guide: Things to Avoid](things_to_avoid.md#content)

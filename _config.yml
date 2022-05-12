@@ -1,4 +1,8 @@
 theme: jekyll-theme-cayman
 title: AWBW Mapmaking Guide
 description: A guide for mapmaking on Advance Wars By Web.
-google_analytics: G-9TCN4PRTR2
+analytics:
+  provider: "google-gtag"
+  google:
+    measurement_id: "G-9TCN4PRTR2"
+    anonymize_ip: false

@@ -11,8 +11,8 @@ The Map Committee (MC) is a group of users which categorize the competitive maps
 Below is a list of the current members of the Map Committee.
 
 ### The Map Committee:
-Head of MC: [Dredge][1]<br>
-Senior MC: [Sami-YingXiangLi][2], [Voice of Akasha][3], [Zeronix][4]<br>
+Head of MC: [Zeronix][4]<br>
+Senior MC: [Sami-YingXiangLi][2], [Voice of Akasha][3]<br>
 Junior MC: [Ilese][5], [Lost and Found][6], [MorganLeah][7], [OutlineY][8], [Pinwheel][12], [ShiraSnow][9], [SuperAnon3MC][10], [Wequito__J][11]
 
 [1]: https://awbw.amarriner.com/profile.php?username=Dredge
